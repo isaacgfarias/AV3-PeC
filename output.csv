@@ -1,0 +1,10 @@
+Algorithm,File,WordCount,ExecutionTime(ms)
+ParallelGPU,Dracula-165307.txt,0,332
+ParallelGPU,MobyDick-217452.txt,0,304
+ParallelGPU,DonQuixote-388208.txt,0,539
+ParallelCPU,Dracula-165307.txt,0,13
+ParallelCPU,MobyDick-217452.txt,0,7
+ParallelCPU,DonQuixote-388208.txt,0,23
+SerialCPU,Dracula-165307.txt,0,149
+SerialCPU,MobyDick-217452.txt,0,62
+SerialCPU,DonQuixote-388208.txt,0,141

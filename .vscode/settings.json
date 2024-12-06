@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        ""
+    ],
+
+    "java.project.referencedLibraries": [
+    "lib/jocl-2.0.4.jar"
+],
+"java.debug.settings.onBuildFailureProceed": true
+}
